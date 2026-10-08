@@ -1,0 +1,17 @@
+pandas
+numpy 
+
+# Visualization
+matplotlib.pyplot
+seaborn 
+re
+sklearn.model_selection
+sklearn.preprocessing
+
+# Data manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib.pyplot
+seaborn
